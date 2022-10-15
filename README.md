@@ -4,7 +4,7 @@
 | Title | Venue | Supervision | PDF | CODE |
 | :-----|:-----:|:---:|:---:|:----:|
 | Slot-VPS: Object-centric Representation Learning for Video Panoptic Segmentation | CVPR | Video | [PDF](https://openaccess.thecvf.com/content/CVPR2022/papers/Zhou_Slot-VPS_Object-Centric_Representation_Learning_for_Video_Panoptic_Segmentation_CVPR_2022_paper.pdf) | [CODE](https://github.com/SAITPublic/SlotVPS) |
-| PolyphonicFormer: Unified Query Learning for Depth-aware Video Panoptic Segmentation | ECCV | Video | [PDF](https://arxiv.org/abs/2112.02582) | [CODE](https://github.com/HarborYuan/PolyphonicFormer) |
+| PolyphonicFormer: Unified Query Learning for Depth-aware Video Panoptic Segmentation | ECCV | Video | [PDF](https://arxiv.org/pdf/2112.02582.pdf) | [CODE](https://github.com/HarborYuan/PolyphonicFormer) |
 | Time-Space Transformers for Video Panoptic Segmentation | WACV | Video | [PDF](https://arxiv.org/pdf/2210.03546.pdf) | [CODE]() |
 | Waymo Open Dataset: Panoramic Video Panoptic Segmentation | ECCV | Video | [PDF](https://arxiv.org/pdf/2206.07704.pdf) | [DATASET](https://waymo.com/open/) |
 | Large-scale Video Panoptic Segmentation in the Wild: A Benchmark | CVPR | Video | [PDF](https://yu-wu.net/pdf/CVPR22_VIPSeg.pdf) | [DATASET](https://github.com/VIPSeg-Dataset/VIPSeg-Dataset/) |
@@ -15,10 +15,10 @@
 | Title | Venue | Supervision | PDF | CODE |
 | :-----|:-----:|:---:|:---:|:----:|
 | Learning to Associate Every Segment for Video Panoptic Segmentation | CVPR | Video | [PDF](https://joonyoung-cv.github.io/assets/paper/21_cvpr_learning_to.pdf) | [CODE]() |
-| STEP: Segmenting and Tracking Every Pixel | NeurIPS | Video | [PDF](http://arxiv.org/abs/2102.11859) | [CODE](https://github.com/google-research/deeplab2) |
+| STEP: Segmenting and Tracking Every Pixel | NeurIPS | Video | [PDF](https://arxiv.org/pdf/2102.11859.pdf) | [CODE](https://github.com/google-research/deeplab2) |
 | ViP-DeepLab: Learning Visual Perception with Depth-aware Video Panoptic Segmentation | CVPR | Video | [PDF](https://arxiv.org/pdf/2012.05258.pdf) | [CODE](https://github.com/joe-siyuan-qiao/ViP-DeepLab) |
 
 ## 2020
 | Title | Venue | Supervision | PDF | CODE |
 | :-----|:-----:|:---:|:---:|:----:|
-| Video Panoptic Segmentation | CVPR | Video | [PDF](https://arxiv.org/abs/2006.11339) | [CODE](https://github.com/mcahny/vps) |
+| Video Panoptic Segmentation | CVPR | Video | [PDF](https://arxiv.org/pdf/2006.11339.pdf) | [CODE](https://github.com/mcahny/vps) |
