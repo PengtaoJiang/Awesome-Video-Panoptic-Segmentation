@@ -7,7 +7,7 @@
 | PolyphonicFormer: Unified Query Learning for Depth-aware Video Panoptic Segmentation | ECCV | Video | [PDF](https://arxiv.org/abs/2112.02582) | [CODE](https://github.com/HarborYuan/PolyphonicFormer) |
 | Time-Space Transformers for Video Panoptic Segmentation | WACV | Video | [PDF](https://arxiv.org/pdf/2210.03546.pdf) | [CODE]() |
 | Waymo Open Dataset: Panoramic Video Panoptic Segmentation | ECCV | Video | [PDF](https://arxiv.org/pdf/2206.07704.pdf) | [DATASET](https://waymo.com/open/) |
-| Large-scale Video Panoptic Segmentation in the Wild: A Benchmark | CVPR | Video | [PDF](https://yu-wu.net/pdf/CVPR22_VIPSeg.pdf) | [DATASET]() |
+| Large-scale Video Panoptic Segmentation in the Wild: A Benchmark | CVPR | Video | [PDF](https://yu-wu.net/pdf/CVPR22_VIPSeg.pdf) | [DATASET](https://github.com/VIPSeg-Dataset/VIPSeg-Dataset/) |
 | A Simple, Strong, and Unified Baseline for Video Segmentation | CVPR | Video | [PDF](https://openaccess.thecvf.com/content/CVPR2022/papers/Li_Video_K-Net_A_Simple_Strong_and_Unified_Baseline_for_Video_CVPR_2022_paper.pdf) | [CODE](https://github.com/lxtGH/Video-K-Net) |
 | Dense Pixel-level Interpretation of Dynamic Scenes with Video Panoptic Segmentation | TIP | Video | [PDF](https://joonyoung-cv.github.io/assets/paper/22_tip_dense_pixel.pdf) | [CODE](https://github.com/mcahny/vps) |
 
@@ -15,6 +15,7 @@
 | Title | Venue | Supervision | PDF | CODE |
 | :-----|:-----:|:---:|:---:|:----:|
 | Learning to Associate Every Segment for Video Panoptic Segmentation | CVPR | Video | [PDF](https://joonyoung-cv.github.io/assets/paper/21_cvpr_learning_to.pdf) | [CODE]() |
+| STEP: Segmenting and Tracking Every Pixel | NeurIPS | Video | [PDF](http://arxiv.org/abs/2102.11859) | [CODE](https://github.com/google-research/deeplab2) |
 | ViP-DeepLab: Learning Visual Perception with Depth-aware Video Panoptic Segmentation | CVPR | Video | [PDF](https://arxiv.org/pdf/2012.05258.pdf) | [CODE](https://github.com/joe-siyuan-qiao/ViP-DeepLab) |
 
 ## 2020
